@@ -15,13 +15,10 @@
 - Projects involving Python/FastAPI, data collection, or ML  
 - Open-source tools that improve developer or user experience  
 
-📫 Reach me at: abubakar60675@gmail.com  
-🔗 Connect: [LinkedIn](https://www.linkedin.com/in/muhammad-abubakar-057106211) | [GitHub](https://github.com/abubakar60675)
+📫 Reach me at: abubakar60675@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/muhammad-abubakar-057106211)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abubakar60675&show_icons=true&theme=react&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar60675&layout=compact&theme=react&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=abubakar60675&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar60675&layout=compact&theme=react&hide_border=true)
