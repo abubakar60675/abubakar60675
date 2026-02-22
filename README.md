@@ -62,4 +62,4 @@ LinkedIn: https://www.linkedin.com/in/muhammad-abubakar-057106211
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar60675&layout=compact&theme=react&hide_border=true&langs_count=8)
+![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=abubakar60675&layout=compact&theme=default&hide_border=true)
