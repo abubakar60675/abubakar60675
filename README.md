@@ -1,24 +1,65 @@
-👋 Hi, I’m Muhammad Abubakar  
-👨‍💻 I'm a Frontend Developer with 3+ years of experience building clean, scalable, and responsive web applications using React, Next.js, and TypeScript  
+👋 Hi, I’m Muhammad Abubakar
 
-🎨 I specialize in turning Figma and UI designs into functional, pixel-perfect user interfaces, I ensure flawless implementation  
+Senior Frontend Engineer with 4 years of experience building scalable SaaS platforms, enterprise dashboards, and high-performance web applications using React, Next.js, and TypeScript.
 
-👀 I’m focused on frontend development, performance optimization, and modern tooling — with growing interest in backend and data-driven development  
+💻 What I Do
 
-🌱 I’m currently learning:  
-- **Python** & **FastAPI** for backend development  
-- **Data scraping** and **data pipelines**  
-- **AI/ML fundamentals** to explore intelligent applications  
+I design and build production-grade frontend systems with a strong focus on performance, scalability, and clean architecture.
 
-💞️ I’m looking to collaborate on:  
-- Frontend-heavy applications (dashboards, CRMs, SaaS platforms)  
-- Projects involving Python/FastAPI, data collection, or ML  
-- Open-source tools that improve developer or user experience  
+My experience includes:
 
-📫 Reach me at: abubakar60675@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/muhammad-abubakar-057106211)
+Dynamic dashboards with sortable and draggable data grids
+
+Schema-driven UI architectures
+
+Large-scale dataset handling with virtualization and optimized rendering
+
+Role-based access control systems
+
+Secure subscription flows using Stripe
+
+SSR and SSG implementations for SEO and performance
+
+Client and server state management for complex applications
+
+🎯 Focus Areas
+
+SaaS platforms
+
+Enterprise CRMs
+
+Data-heavy applications
+
+AI-powered frontend experiences
+
+Performance optimization
+
+🌱 Currently Exploring
+
+Python and FastAPI for backend systems
+
+Data scraping and automated pipelines
+
+AI and ML fundamentals for intelligent applications
+
+🤝 Open to Collaborate On
+
+Frontend-heavy SaaS platforms
+
+Admin dashboards and enterprise tools
+
+Performance-critical web applications
+
+Open-source developer tooling
+
+📫 Contact
+
+Email: abubakar60675@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/muhammad-abubakar-057106211
 
 ---
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar60675&layout=compact&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar60675&layout=compact&theme=react&hide_border=true&langs_count=8)
